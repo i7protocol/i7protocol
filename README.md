@@ -1,7 +1,5 @@
 <h1 align="center">Santi | Hayakawa Ren</h1>
-<p align="center">
-  <em>Construyo estructura en el caos. Si se rompe, lo arreglo. Si sangra, lo coso.</em>
-</p>
+
 
 ## En qué estoy trabajando
 - Bots y automatizaciones (Node.js + discord.js)
