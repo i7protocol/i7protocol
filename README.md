@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🗡️ Santiago | Hayakawa Ren (dev)
 
-<!--
-**i7protocol/i7protocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ En qué estoy trabajando
+- Bots y automatizaciones para Discord (Node.js + discord.js)
+- Paginas web (En desarrollo todavia)
 
-Here are some ideas to get you started:
+## 📚 Actualmente aprendiendo
+- JavaScript / TypeScript
+- Node.js
+- Git, flujos de trabajo y documentación
+- Patrones de diseño básicos y modularidad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack
+| Herramienta | Uso |
+|------------|-----|
+| **Node.js** | Backend ligero y bots |
+| **discord.js** | Interacción y automatización en servidores |
+| **VS Code** | Entorno de desarrollo |
+| **Git & GitHub** | Control de versiones y despliegue |
+
+## 🎴 Filosofía
+No creo en lo “perfecto”. Creo en lo que avanza.  
+Prefiero construir, romper y reconstruir.  
+La mejora constante es más importante que el resultado final.
+
+> *“Si voy a seguir, que sea con propósito.  
+> Si voy a crear, que sea con filo.”*
+
+
