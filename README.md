@@ -19,7 +19,6 @@
 | discord.js | Automatización y lógica en servidores |
 | Git & GitHub | Control de versiones, deployment y organización |
 | VS Code | Entorno de desarrollo principal |
-| Figma | Prototipado visual cuando hace falta |
 
 ## Filosofía
 No espero a estar “listo”.  
