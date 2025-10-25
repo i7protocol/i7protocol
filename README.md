@@ -5,10 +5,11 @@
 - Paginas web (En desarrollo todavia)
 
 ## 📚 Actualmente aprendiendo
-- JavaScript / TypeScript
-- Node.js
-- Git, flujos de trabajo y documentación
-- Patrones de diseño básicos y modularidad
+- **HTML** para estructura y maquetación
+- **CSS** para diseño y estilo
+- **JavaScript** para lógica, interacción y dinámica en la web
+- Fundamentos del desarrollo web y pensamiento modular
+
 
 ## 🧰 Stack
 | Herramienta | Uso |
@@ -26,4 +27,10 @@ La mejora constante es más importante que el resultado final.
 > *“Si voy a seguir, que sea con propósito.  
 > Si voy a crear, que sea con filo.”*
 
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=i7protocol&show_icons=true&theme=dark&icon_color=8a0000&title_color=8a0000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i7protocol&layout=compact&theme=dark&title_color=8a0000" height="150"/>
+</p>
 
