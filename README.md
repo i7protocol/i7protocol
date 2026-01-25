@@ -1,4 +1,4 @@
-<h1 align="center">Santi | Hayakawa Ren</h1>
+<h1 align="center">Hayakawa Ren</h1>
 
 
 ## En qué estoy trabajando
@@ -23,9 +23,6 @@
 ## Filosofía
 No espero a estar “listo”.  
 Aprendo haciendo, rompiendo y reconstruyendo.  
-El código vive mientras lo mantengas respirando.
-
-> “Si voy a crear, que tenga filo.”
 
 ## Stats
 
